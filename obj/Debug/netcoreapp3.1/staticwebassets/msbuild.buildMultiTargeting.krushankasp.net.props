@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\krushankasp.net.props" />
+</Project>
